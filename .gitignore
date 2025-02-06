@@ -1,0 +1,37 @@
+# Ignore user-specific files
+.idea/
+.vs/
+.vscode/
+
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+.vs2019/
+.vscode/
+.gradle/
+
+# User-specific files
+*.user
+*.userprefs
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# macOS
+.DS_Store
+
+# Linux
+.directory
+
+# JetBrains Rider
+.idea/
+
+# Unity3D specific files
+*.csproj
+*.sln
+*.user
+*.userprefs
