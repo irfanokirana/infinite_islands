@@ -57,6 +57,8 @@
     <Compile Include="Assets\Polytope Studio\Lowpoly_Demos\Environment_Free\Helpers\MouseLook.cs" />
     <Compile Include="Assets\AQUAS-Lite\Scripts\AQUAS_Lite_Reflection.cs" />
     <Compile Include="Assets\AQUAS-Lite\Scripts\AQUAS_Lite_CamNav.cs" />
+    <Compile Include="Assets\AQUAS-Lite\Scripts\RemoveUnderwaterTreesEditor.cs" />
+    <Compile Include="Assets\AQUAS-Lite\Scripts\RemoveUnderwaterTrees.cs" />
     <Compile Include="Assets\Polytope Studio\Lowpoly_Demos\Environment_Free\Helpers\PlayerMovement.cs" />
     <Compile Include="Assets\ModularFirstPersonController\FirstPersonController\FirstPersonController.cs" />
   </ItemGroup>
